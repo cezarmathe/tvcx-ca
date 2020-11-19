@@ -1,0 +1,6 @@
+# CA files
+ca
+!ca/.gitkeep
+
+# Encrypted CA files
+secure

@@ -1,0 +1,16 @@
+{
+    "CN": "<common name>",
+    "key": {
+      "algo": "rsa",
+      "size": 4096
+    },
+    "names": [
+        {
+            "C": "<country code>",
+            "L": "<city>",
+            "O": "<organization>",
+            "OU": "<organizational unit>",
+            "ST": "<state>"
+        }
+    ]
+}
